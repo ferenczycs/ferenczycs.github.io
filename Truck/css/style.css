@@ -4,3 +4,28 @@
 p {
         font-family: 'Yellowtail', cursive;
 }
+h1 {
+        color: darkslategray;
+        margin: 40pt;
+        font-family: fantasy;
+}
+h2 {
+        text-align: center;
+        font-family: fantasy;
+        color: dimgrey;
+}
+img{
+        padding-left: 100pt;
+        padding-top: 20pt;
+}
+ul{
+        font-family: 'Yellowtail', cursive;    
+}
+table {
+        font-family: fantasy;
+        font-size: 600;
+}
+td {
+        text-align: center;
+        margin: 40pt;
+}
